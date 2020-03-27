@@ -1,6 +1,6 @@
 /*"Reversi"
  *Program zaliczeniowy
- *autor: Urszula Tworzydło
+ *autor: UlaTwo
  *data: 9.12.17
  */
 #include <stdio.h>
