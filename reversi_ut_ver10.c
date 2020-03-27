@@ -1,5 +1,5 @@
 /*"Reversi"
- *Program zaliczeniowy
+ *Program zaliczeniowy - 1 semestr
  *autor: UlaTwo
  *data: 9.12.17
  */
